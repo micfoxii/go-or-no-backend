@@ -1,0 +1,2 @@
+class UDestinationsController < ApplicationController
+end
